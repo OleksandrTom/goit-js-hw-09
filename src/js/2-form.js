@@ -1,4 +1,3 @@
-
 const feedbackForm = document.querySelector('form');
 const localStorageKey = 'feedback-form-state';
 const savedLocalStorageKey = localStorage.getItem(localStorageKey);
